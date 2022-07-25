@@ -26,4 +26,4 @@
 
 <p><img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dexter4452&show_icons=true&locale=en&layout=compact" alt="dexter4452" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dexter4452&show_icons=true&locale=en" alt="dexter4452" /></p>
+<p>&nbsp;<img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=dexter4452&show_icons=true&locale=en" alt="dexter4452" /></p>
